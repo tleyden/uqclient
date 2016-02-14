@@ -1,4 +1,6 @@
 
+[![GoDoc](https://godoc.org/github.com/tleyden/uqclient/libuqclient?status.png)](https://godoc.org/github.com/tleyden/uqclient/libuqclient)
+
 A uniqush client library in Go.
 
 At the moment I'm just implementing what I need for the [backend](https://github.com/tleyden/deepstyle) of [deepstyle-ios](https://github.com/tleyden/deepstyle-ios).
