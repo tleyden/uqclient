@@ -1,4 +1,4 @@
-package uqclient
+package libuqclient
 
 type PushServiceType int
 

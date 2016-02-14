@@ -1,4 +1,4 @@
-package uqclient
+package libuqclient
 
 type UniqushService struct {
 	UniqushClient   UniqushClient
